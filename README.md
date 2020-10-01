@@ -1,4 +1,4 @@
-# screenTaskBimediaLabs written in Go (REST API with gin, mgo.v2)
+# screenTaskBitmediaLabs written in Go (REST API with gin, mgo.v2)
 
 Test task should be written in Go.
 
